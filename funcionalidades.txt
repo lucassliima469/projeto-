@@ -1,0 +1,6 @@
+- Cadastro de usuários
+- Login / Autenticação
+- Carrinho de compras
+- Pagamento com desconto
+- Avaliação dos produtos 
+- Página dos produtos 
